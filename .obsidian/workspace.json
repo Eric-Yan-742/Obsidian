@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "This is a new file.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,6 +72,14 @@
               "type": "file-tree-view",
               "state": {}
             }
+          },
+          {
+            "id": "1693a41a7431c747",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -94,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "This is a new file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "This is a new file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "This is a new file.md"
               }
             }
           },
@@ -145,17 +153,9 @@
               "type": "git-history-view",
               "state": {}
             }
-          },
-          {
-            "id": "1693a41a7431c747",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,9 +174,9 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "4cb24df851a070cd",
+  "active": "a488ed35f39a668a",
   "lastOpenFiles": [
-    "Untitled.md",
+    "This is a new file.md",
     "_attachments/bfef0e422e9b1681f20af729bfda914(1).jpg.baiduyun.downloading.cfg",
     "_attachments/bfef0e422e9b1681f20af729bfda914(1).jpg.baiduyun.downloading",
     "_attachments/bde294538c14c6c251a76f77fae7790(1).jpg.baiduyun.downloading.cfg",
