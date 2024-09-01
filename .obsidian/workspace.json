@@ -11,11 +11,10 @@
             "id": "4cb24df851a070cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "This is a new file.md",
-                "mode": "source",
-                "source": false
+                "staged": true
               }
             }
           }
@@ -102,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "This is a new file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "This is a new file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "This is a new file.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,7 +169,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "1693a41a7431c747",
+  "active": "4cb24df851a070cd",
   "lastOpenFiles": [
     "This is a new file.md",
     "_attachments/bfef0e422e9b1681f20af729bfda914(1).jpg.baiduyun.downloading.cfg",

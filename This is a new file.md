@@ -1,2 +1,4 @@
 - Write some new content and stop. hahaha 
-- A new line. Offline mode?
+- A new line. Offline mode? 
+- Hello 
+- Hi
