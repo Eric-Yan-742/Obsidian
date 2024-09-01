@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,9 +174,8 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "4cb24df851a070cd",
+  "active": "c6da93fb860b3329",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "This is a new file.md",
     "_attachments/bfef0e422e9b1681f20af729bfda914(1).jpg.baiduyun.downloading.cfg",
     "_attachments/bfef0e422e9b1681f20af729bfda914(1).jpg.baiduyun.downloading",
