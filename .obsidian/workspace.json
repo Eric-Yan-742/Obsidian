@@ -11,8 +11,15 @@
             "id": "c6da93fb860b3329",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -78,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -98,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.canvas"
+              }
             }
           },
           {
@@ -166,11 +177,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "1693a41a7431c747",
+  "active": "a488ed35f39a668a",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Untitled 4.canvas",
+    "Untitled.canvas",
     "This is a new file.md",
     "LeetCode/Math/Optimizing TikTok Collctible Packs.md",
     "conflict-files-obsidian-git.md",
