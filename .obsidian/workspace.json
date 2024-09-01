@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "This is a new file.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "This is a new file.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "This is a new file.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "This is a new file.md"
+                "file": "test.md"
               }
             }
           },
@@ -174,11 +174,12 @@
       "file-tree-alternative:File Tree Alternative Plugin": true
     }
   },
-  "active": "1693a41a7431c747",
+  "active": "c6da93fb860b3329",
   "lastOpenFiles": [
+    "test.md",
+    "Test.md",
     "LeetCode/Array/59. Spiral Matrix II.md",
     "LeetCode/Array/27. Remove Element.md",
-    "This is a new file.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
@@ -217,7 +218,6 @@
     "LeetCode/C++ Api.md",
     "LeetCode/Hash Table.md",
     "String/xixi.md",
-    "LeetCode/new problem.md",
     "_attachments/image 10.png",
     "_attachments/image 9.png",
     "_attachments/5a6d826b-8520-417b-88d0-8b799707b3f8.png",
