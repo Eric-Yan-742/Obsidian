@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled 2.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled 2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled 2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Untitled 2.canvas"
               }
             }
           },
@@ -179,6 +179,8 @@
   },
   "active": "c6da93fb860b3329",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
     "Untitled.canvas",
     "This is a new file.md",
     "LeetCode/Math/Optimizing TikTok Collctible Packs.md",
