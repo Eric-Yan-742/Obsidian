@@ -18,17 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "645c58e45a84bd74",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "LeetCode/Array/27. Remove Element.md",
-                "staged": false
-              }
-            }
           }
         ]
       }
@@ -185,7 +174,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": true
     }
   },
-  "active": "c6da93fb860b3329",
+  "active": "1693a41a7431c747",
   "lastOpenFiles": [
     "LeetCode/Array/59. Spiral Matrix II.md",
     "LeetCode/Array/27. Remove Element.md",
