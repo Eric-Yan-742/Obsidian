@@ -11,10 +11,11 @@
             "id": "c6da93fb860b3329",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "This is a new file.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -81,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -101,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "This is a new file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "This is a new file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "This is a new file.md"
+              }
             }
           },
           {
