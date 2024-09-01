@@ -6,5 +6,6 @@
   "useMarkdownLinks": true,
   "newFileLocation": "current",
   "showLineNumber": false,
-  "trashOption": "local"
+  "trashOption": "local",
+  "tabSize": 5
 }

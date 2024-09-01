@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,7 +187,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "57fd4daaa599681c",
+  "active": "1693a41a7431c747",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "This is a new file.md",
