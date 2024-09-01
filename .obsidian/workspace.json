@@ -18,6 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "645c58e45a84bd74",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "LeetCode/Array/27. Remove Element.md",
+                "staged": false
+              }
+            }
           }
         ]
       }
@@ -174,14 +185,16 @@
       "file-tree-alternative:File Tree Alternative Plugin": true
     }
   },
-  "active": "1693a41a7431c747",
+  "active": "c6da93fb860b3329",
   "lastOpenFiles": [
+    "LeetCode/Array/59. Spiral Matrix II.md",
+    "LeetCode/Array/27. Remove Element.md",
+    "This is a new file.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 4.canvas",
-    "This is a new file.md",
     "LeetCode/Math/Optimizing TikTok Collctible Packs.md",
     "conflict-files-obsidian-git.md",
     "_attachments/bfef0e422e9b1681f20af729bfda914(1).jpg.baiduyun.downloading.cfg",
@@ -216,7 +229,6 @@
     "LeetCode/Hash Table.md",
     "String/xixi.md",
     "LeetCode/new problem.md",
-    "Variables.md",
     "_attachments/image 10.png",
     "_attachments/image 9.png",
     "_attachments/5a6d826b-8520-417b-88d0-8b799707b3f8.png",
