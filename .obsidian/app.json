@@ -3,9 +3,9 @@
   "attachmentFolderPath": "_attachments",
   "promptDelete": false,
   "newLinkFormat": "shortest",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "newFileLocation": "current",
   "showLineNumber": false,
   "trashOption": "local",
-  "tabSize": 6
+  "tabSize": 4
 }
