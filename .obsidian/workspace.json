@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "38cb1fb376b43259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "This is a new file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "This is a new file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "This is a new file.md"
               }
             }
           },
@@ -199,10 +187,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "38cb1fb376b43259",
+  "active": "57fd4daaa599681c",
   "lastOpenFiles": [
-    "This is a new file.md",
     "conflict-files-obsidian-git.md",
+    "This is a new file.md",
     "_attachments/bfef0e422e9b1681f20af729bfda914(1).jpg.baiduyun.downloading.cfg",
     "_attachments/bfef0e422e9b1681f20af729bfda914(1).jpg.baiduyun.downloading",
     "_attachments/bde294538c14c6c251a76f77fae7790(1).jpg.baiduyun.downloading.cfg",
