@@ -3,7 +3,7 @@
   "attachmentFolderPath": "_attachments",
   "promptDelete": false,
   "newLinkFormat": "shortest",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "newFileLocation": "current",
   "showLineNumber": false,
   "trashOption": "local",
