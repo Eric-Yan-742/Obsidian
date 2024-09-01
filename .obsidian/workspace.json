@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Greedy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f48aee448550506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "LeetCode/Greedy/738. Monotone Increasing Digits.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "583922401a773bdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/Greedy/376. Wiggle Subsequence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mono",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,30 +166,19 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false,
-      "file-tree-alternative:File Tree Alternative Plugin": true
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "a488ed35f39a668a",
+  "active": "c6da93fb860b3329",
   "lastOpenFiles": [
-    "LeetCode/Greedy.md",
-    "LeetCode/Greedy/376. Wiggle Subsequence.md",
-    "LeetCode/Greedy/122. Best Time to Buy and Sell Stock II.md",
-    "test.md",
-    "Test.md",
-    "LeetCode/Array/59. Spiral Matrix II.md",
-    "LeetCode/Array/27. Remove Element.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "Untitled 3.canvas",
-    "Untitled 4.canvas",
-    "LeetCode/Math/Optimizing TikTok Collctible Packs.md",
     "conflict-files-obsidian-git.md",
+    "LeetCode/Greedy/738. Monotone Increasing Digits.md",
+    "This is a new file.md",
     "_attachments/bfef0e422e9b1681f20af729bfda914(1).jpg.baiduyun.downloading.cfg",
     "_attachments/bfef0e422e9b1681f20af729bfda914(1).jpg.baiduyun.downloading",
     "_attachments/bde294538c14c6c251a76f77fae7790(1).jpg.baiduyun.downloading.cfg",
@@ -226,6 +190,7 @@
     "_attachments/6600c682dcead13e65f984161b7b1ad(1).jpg.baiduyun.downloading.cfg",
     "_attachments/6600c682dcead13e65f984161b7b1ad(1).jpg.baiduyun.downloading",
     "New File.md",
+    "Untitled.canvas",
     "LeetCode/Math/Find the max gcd of any pairs of numbers in an array.md",
     "jj.md",
     "_attachments/45ca5eb70b52dcd8e1ade5cbf294558.jpg",
@@ -243,6 +208,12 @@
     "LeetCode/国内面试.md",
     "LeetCode/Two Pointers.md",
     "LeetCode/Dynamic Programming/0-1 Knapsack Problem.md",
+    "LeetCode/C++ Api.md",
+    "LeetCode/Hash Table.md",
+    "String/xixi.md",
+    "LeetCode/new problem.md",
+    "Variables.md",
+    "LeetCode.md",
     "_attachments/image 10.png",
     "_attachments/image 9.png",
     "_attachments/5a6d826b-8520-417b-88d0-8b799707b3f8.png",
