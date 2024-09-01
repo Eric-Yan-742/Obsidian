@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1f48aee448550506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/Greedy/738. Monotone Increasing Digits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "583922401a773bdb",
             "type": "leaf",
             "state": {
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Greedy/376. Wiggle Subsequence.md",
+                "file": "LeetCode/Greedy/738. Monotone Increasing Digits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Greedy/376. Wiggle Subsequence.md",
+                "file": "LeetCode/Greedy/738. Monotone Increasing Digits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Greedy/376. Wiggle Subsequence.md"
+                "file": "LeetCode/Greedy/738. Monotone Increasing Digits.md"
               }
             }
           },
@@ -187,9 +199,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": true
     }
   },
-  "active": "583922401a773bdb",
+  "active": "1f48aee448550506",
   "lastOpenFiles": [
     "LeetCode/Greedy.md",
+    "LeetCode/Greedy/376. Wiggle Subsequence.md",
     "LeetCode/Greedy/122. Best Time to Buy and Sell Stock II.md",
     "test.md",
     "Test.md",
@@ -230,7 +243,6 @@
     "LeetCode/国内面试.md",
     "LeetCode/Two Pointers.md",
     "LeetCode/Dynamic Programming/0-1 Knapsack Problem.md",
-    "LeetCode/C++ Api.md",
     "_attachments/image 10.png",
     "_attachments/image 9.png",
     "_attachments/5a6d826b-8520-417b-88d0-8b799707b3f8.png",
