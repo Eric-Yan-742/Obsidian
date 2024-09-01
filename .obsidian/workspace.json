@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,8 +176,9 @@
   },
   "active": "c6da93fb860b3329",
   "lastOpenFiles": [
-    "This is a new file.md",
     "conflict-files-obsidian-git.md",
+    "LeetCode/Greedy/738. Monotone Increasing Digits.md",
+    "This is a new file.md",
     "_attachments/bfef0e422e9b1681f20af729bfda914(1).jpg.baiduyun.downloading.cfg",
     "_attachments/bfef0e422e9b1681f20af729bfda914(1).jpg.baiduyun.downloading",
     "_attachments/bde294538c14c6c251a76f77fae7790(1).jpg.baiduyun.downloading.cfg",
@@ -213,7 +214,6 @@
     "LeetCode/new problem.md",
     "Variables.md",
     "LeetCode.md",
-    "LeetCode/Math/Optimizing TikTok Collctible Packs.md",
     "_attachments/image 10.png",
     "_attachments/image 9.png",
     "_attachments/5a6d826b-8520-417b-88d0-8b799707b3f8.png",
