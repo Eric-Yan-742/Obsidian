@@ -7,5 +7,9 @@
   "newFileLocation": "current",
   "showLineNumber": false,
   "trashOption": "local",
+<<<<<<< HEAD
   "tabSize": 5
+=======
+  "tabSize": 6
+>>>>>>> origin/main
 }
