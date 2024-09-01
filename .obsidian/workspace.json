@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72ed21b382597c38",
+        "id": "ee13be5b7f9e957d",
         "type": "tabs",
         "children": [
           {
-            "id": "4cb24df851a070cd",
+            "id": "a3b05f72fbe60fe5",
             "type": "leaf",
             "state": {
               "type": "diff-view",
@@ -169,7 +169,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "1693a41a7431c747",
+  "active": "a3b05f72fbe60fe5",
   "lastOpenFiles": [
     "This is a new file.md",
     "_attachments/bfef0e422e9b1681f20af729bfda914(1).jpg.baiduyun.downloading.cfg",
