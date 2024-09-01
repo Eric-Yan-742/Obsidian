@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Greedy/738. Monotone Increasing Digits.md",
+                "file": "LeetCode/Greedy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Greedy/738. Monotone Increasing Digits.md",
+                "file": "LeetCode/Greedy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Greedy/738. Monotone Increasing Digits.md"
+                "file": "LeetCode/Greedy.md"
               }
             }
           },
