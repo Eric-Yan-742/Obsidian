@@ -11,10 +11,11 @@
             "id": "c6da93fb860b3329",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Test.md",
-                "staged": false
+                "file": "LeetCode/Greedy/122. Best Time to Buy and Sell Stock II.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LeetCode/Greedy/122. Best Time to Buy and Sell Stock II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LeetCode/Greedy/122. Best Time to Buy and Sell Stock II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LeetCode/Greedy/122. Best Time to Buy and Sell Stock II.md"
+              }
             }
           },
           {
@@ -169,8 +174,9 @@
       "file-tree-alternative:File Tree Alternative Plugin": true
     }
   },
-  "active": "a488ed35f39a668a",
+  "active": "c6da93fb860b3329",
   "lastOpenFiles": [
+    "LeetCode/Greedy.md",
     "test.md",
     "Test.md",
     "LeetCode/Array/59. Spiral Matrix II.md",
@@ -212,7 +218,6 @@
     "LeetCode/Dynamic Programming/0-1 Knapsack Problem.md",
     "LeetCode/C++ Api.md",
     "LeetCode/Hash Table.md",
-    "String/xixi.md",
     "_attachments/image 10.png",
     "_attachments/image 9.png",
     "_attachments/5a6d826b-8520-417b-88d0-8b799707b3f8.png",
