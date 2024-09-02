@@ -1,5 +1,5 @@
 - Local Optimal → Global Optimal
-- Slope
+- Slope: Increment when there is an up or down. 
     
     [[122. Best Time to Buy and Sell Stock II]]
     
