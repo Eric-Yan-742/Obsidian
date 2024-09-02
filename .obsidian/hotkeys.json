@@ -23,5 +23,13 @@
       ],
       "key": "I"
     }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
   ]
 }
