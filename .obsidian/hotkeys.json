@@ -23,5 +23,13 @@
       ],
       "key": "I"
     }
+  ],
+  "markdown:add-alias": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "X"
+    }
   ]
 }
