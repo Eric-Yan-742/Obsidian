@@ -9,7 +9,7 @@
     
     [[135. Candy]]
     
-- Accumulative Sum
+- Accumulative: Maintain some intervals. 
     
     [[860. Lemonade Change]]
     
