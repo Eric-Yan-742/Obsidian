@@ -25,7 +25,7 @@
     
     [[135. Candy]]
     
-- Two parts
+- Two parts: With two dimensions, use one greedy to determine one dimension first. Then use greedy to determine the other dimension. We cannot do two dimensions at the same time. 
     
     [[1005. Maximize Sum Of Array After K Negations]]
     
