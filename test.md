@@ -3,5 +3,5 @@
 - A new line
 - Another line
 - Edit this line.
-- Add a line. git 
-- Delete this line
+- Add a line. 
+- Delete this line. 
