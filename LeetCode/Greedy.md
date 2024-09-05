@@ -33,7 +33,7 @@
     
     [[406. Queue Reconstruction by Height]]
     
-- Interval
+- Interval: Sort the intervals first. Greedy happens when you decide how to add the next interval. 
     
     [[452. Minimum Number of Arrows to Burst Balloons]]
     
