@@ -14,7 +14,4 @@
     - a subpoint. 
 - Some Code
     
-    ```cpp
-    
-	```
-	
+
