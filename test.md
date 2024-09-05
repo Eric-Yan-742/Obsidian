@@ -1,8 +1,2 @@
-- hahahahaha asdf ff
-- Some new text
-- A new line
-- Another line
-- Edit this line.
-- Add a line. 
-- Delete this line. 
-- Some new content
+- A bullet point
+- 
