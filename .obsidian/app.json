@@ -8,5 +8,6 @@
   "showLineNumber": false,
   "trashOption": "local",
   "tabSize": 4,
-  "useTab": true
+  "useTab": true,
+  "showIndentGuide": false
 }
