@@ -3,10 +3,27 @@
     2. shift end until [start, end] is not qualified
     3. Then shift start until [start, end] is qualified
 2. Minimum substrings/subarrays
-    1. shift end until [start, end] is qualified
-    2. Then shift start until [start, end] is not qualified.
+    1. shift end until the window is qualified
+    2. Then shift start until the window is not qualified.
     3. Record minimum length while shifting start
-3. Maximum substrings/subarrays
+
+```cpp
+int left = 0, right = 0;
+
+while (right < nums.size()) {
+    // expand window
+    window.addLast(nums[right]);
+    right++;
+    
+    while (window needs shrink) {
+        // shrink window
+        window.removeFirst(nums[left]);
+        left++;
+    }
+}
+```
+
+1. Maximum substrings/subarrays
     1. Only shift start when [start, end] is qualified
     2. Shift both start and end when [start, end] is not qualified
     3. `return end - start`
@@ -15,3 +32,4 @@
 
 [[Minimum Swaps to group all 1s and all 0s together]]
 
+[[76. Minimum Window Substring]]
