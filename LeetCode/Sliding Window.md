@@ -15,26 +15,3 @@
 
 [[Minimum Swaps to group all 1s and all 0s together]]
 
-  
-
-1248
-
-992
-
-76
-
-1234
-
-1004
-
-930
-
-904
-
-209
-
-  
-
-Deque
-
-862
