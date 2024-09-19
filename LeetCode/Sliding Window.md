@@ -33,3 +33,5 @@ while (right < nums.size()) {
 [[Minimum Swaps to group all 1s and all 0s together]]
 
 [[76. Minimum Window Substring]]
+
+[[567. Permutation in String]]
