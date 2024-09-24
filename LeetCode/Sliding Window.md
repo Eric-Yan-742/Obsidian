@@ -24,7 +24,7 @@ while (right < nums.size()) {
 ```
 
 1. Maximum substrings/subarrays
-    1. Only shift start when [start, end] is qualified
+    1. Only shift start when window is valid
     2. Shift both start and end when [start, end] is not qualified
     3. `return end - start`
 
