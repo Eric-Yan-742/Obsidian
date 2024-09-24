@@ -35,9 +35,11 @@ while (right < nums.size()) {
 ---
 
 3. Maximum substrings/subarrays
-	1. Only shift start when window is valid
+	1. Only shift right when window is valid
 	2. Shift both start and end when [start, end] is not qualified
 	3. `return end - start`
+
+[[3. Longest Substring Without Repeating Characters]]
 
 ---
 
