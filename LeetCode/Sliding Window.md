@@ -6,8 +6,8 @@
 ---
 
 3. Minimum substrings/subarrays
-    1. shift end until the window is qualified
-    2. Then shift start until the window is not qualified.
+    1. shift end until the window is qualified. (Expand the window)
+    2. Then shift start until the window is not qualified. (Shrink the window)
     3. Record minimum length while shifting start
 
 ```cpp
