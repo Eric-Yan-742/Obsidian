@@ -1,3 +1,4 @@
+- sliding window is most powerful for substring. 
 1. Number of substrings/subarrays
     1. `atMost(k) - atMost(k - 1)`
     2. shift end until [start, end] is not qualified
