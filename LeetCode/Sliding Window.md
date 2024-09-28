@@ -45,6 +45,10 @@ while (right < nums.size()) {
 
 [[159. Longest Substring with At Most Two Distinct Characters]]
 
+[[340. Longest Substring with At Most K Distinct Characters]]
+
+
+
 ---
 
 [[1151. Minimum Swaps to Group All 1's Together]]
