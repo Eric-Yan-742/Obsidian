@@ -48,7 +48,7 @@ while (right < nums.size()) {
 
 [[340. Longest Substring with At Most K Distinct Characters]]
 
-
+[[1248. Count Number of Nice Subarrays]]
 
 ---
 
@@ -73,7 +73,5 @@ Problems that I did in the past (not recorded).
 1234
 
 992
-
-1248
 
 1358
