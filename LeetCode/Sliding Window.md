@@ -67,3 +67,7 @@ while (right < nums.size()) {
 1004
 
 930
+
+1234
+
+992
