@@ -71,3 +71,7 @@ while (right < nums.size()) {
 1234
 
 992
+
+1248
+
+1358
