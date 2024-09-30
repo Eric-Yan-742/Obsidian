@@ -44,6 +44,8 @@ while (right < nums.size()) {
 
 [[3. Longest Substring Without Repeating Characters]]
 
+Sliding window is good at at most, not at least. 
+
 [[159. Longest Substring with At Most Two Distinct Characters]]
 
 [[340. Longest Substring with At Most K Distinct Characters]]
