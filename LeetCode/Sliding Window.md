@@ -44,13 +44,15 @@ while (right < nums.size()) {
 
 [[3. Longest Substring Without Repeating Characters]]
 
-Sliding window is good at at most, not at least. 
+Sliding window is good at at most, not at least and exact occurences of something.
 
 [[159. Longest Substring with At Most Two Distinct Characters]]
 
 [[340. Longest Substring with At Most K Distinct Characters]]
 
 [[1248. Count Number of Nice Subarrays]]
+
+[[992. Subarrays with K Different Integers]]
 
 ---
 
@@ -73,7 +75,5 @@ Problems that I did in the past (not recorded).
 930
 
 1234
-
-992
 
 1358
