@@ -46,7 +46,7 @@ while (right < nums.size()) {
 
 ## Number/Occurence
 
-- Sliding window is good at at most, not at least and exact occurences of something. So we use `atMost(k) - atMost(k - 1)` to find exactly k occurences. 
+Sliding window is good at at most, not at least and exact occurences of something. So we use `atMost(k) - atMost(k - 1)` to find exactly k occurences. 
 
 [[159. Longest Substring with At Most Two Distinct Characters]]
 
@@ -55,6 +55,8 @@ while (right < nums.size()) {
 [[1248. Count Number of Nice Subarrays]]
 
 [[992. Subarrays with K Different Integers]]
+
+[[930. Binary Subarrays With Sum]]
 
 ---
 
