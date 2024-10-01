@@ -79,11 +79,3 @@ maximum, shift both left and right.
 1004
 
 930
-
-
-
-
-1234
-- 58
-	- hh
-	- jjj
