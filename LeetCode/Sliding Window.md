@@ -72,8 +72,7 @@ maximum, shift both left and right.
 - Using deque
 	- 1425
 	- 239
-
-862
+	- 862
 
 904
 
