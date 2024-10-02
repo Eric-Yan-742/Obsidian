@@ -52,13 +52,13 @@ Sliding window is good at at most, not at least and exact occurences of somethin
 
 [[340. Longest Substring with At Most K Distinct Characters]]
 
-[[LeetCode/Sliding Window/1004. Max Consecutive Ones III|1004. Max Consecutive Ones III]]
-
 [[1248. Count Number of Nice Subarrays]]
 
 [[992. Subarrays with K Different Integers]]
 
 [[930. Binary Subarrays With Sum]]
+
+[[1004. Max Consecutive Ones III]]
 
 ---
 
