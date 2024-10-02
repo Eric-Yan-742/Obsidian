@@ -69,9 +69,9 @@ Problems that I did in the past (not recorded).
 
 maximum, shift both left and right. 
 
-1425
-
-239
+- Using deque
+	- 1425
+	- 239
 
 862
 
