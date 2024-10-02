@@ -58,7 +58,7 @@ Sliding window is good at at most, not at least and exact occurences of somethin
 
 [[930. Binary Subarrays With Sum]]
 
-
+@./Sliding Window/[1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 
 
 ---
@@ -80,5 +80,3 @@ maximum, shift both left and right.
 904
 
 1004
-
-930
