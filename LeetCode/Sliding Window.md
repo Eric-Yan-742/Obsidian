@@ -56,6 +56,8 @@ Sliding window is good at at most, not at least and exact occurences of somethin
 
 [[992. Subarrays with K Different Integers]]
 
+[[1004. Max Consecutive Ones III]]
+
 [[930. Binary Subarrays With Sum]]
 
 
