@@ -80,5 +80,3 @@ maximum, shift both left and right.
 	- 862
 
 904
-
-1004
