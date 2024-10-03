@@ -60,6 +60,10 @@ Sliding window is good at at most, not at least and exact occurences of somethin
 
 [[930. Binary Subarrays With Sum]]
 
+## Monotonic Queue (implemented by deque)
+
+[[239. Sliding Window Maximum]]
+
 ---
 
 [[1151. Minimum Swaps to Group All 1's Together]]
@@ -72,7 +76,6 @@ maximum, shift both left and right.
 
 - Using deque
 	- 1425
-	- 239
 	- 862
 
 904
