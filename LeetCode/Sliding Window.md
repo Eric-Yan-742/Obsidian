@@ -75,7 +75,6 @@ Sliding window is good at at most, not at least and exact occurences of somethin
 Problems that I did in the past (not recorded).
 - maximum, shift both left and right. 
 - Using deque
-	- 1425
 	- 862
 
 904
