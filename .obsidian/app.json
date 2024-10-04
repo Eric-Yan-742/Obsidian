@@ -9,5 +9,6 @@
   "trashOption": "local",
   "tabSize": 4,
   "useTab": true,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "vimMode": true
 }
