@@ -60,7 +60,7 @@ Sliding window is good at at most, not at least and exact occurences of somethin
 
 [[930. Binary Subarrays With Sum]]
 
-## Monotonic Queue (implemented by deque)
+# Monotonic Queue (implemented by deque)
 
 [[239. Sliding Window Maximum]]
 
