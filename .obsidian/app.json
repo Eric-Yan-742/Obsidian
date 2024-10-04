@@ -10,5 +10,5 @@
   "tabSize": 4,
   "useTab": true,
   "showIndentGuide": true,
-  "vimMode": true
+  "vimMode": false
 }
