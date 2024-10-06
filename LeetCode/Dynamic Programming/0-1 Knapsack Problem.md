@@ -45,7 +45,7 @@
     
 - 2D dp
     
-    - `dp[i][j]` : `dp[i][j]` is the maximum value we can get considering objects `bags[0, i]` with volume j.
+    - `dp[i][j]` : `dp[i][j]` is the maximum value we can get considering objects `bags[0 : i]` with volume j.
     - Recurrence Relation
         
         1. If don’t bring item `i` , max value is `dp[i - 1][j]`
@@ -98,7 +98,7 @@
     
     - Because we just need the last row，we can use a n-element array and traverse m times to save space.
     
-    1. `dp[j]` means that the max value of a bag with `j` capacity
+    1. `dp[j]` means that the max value of a `bag[0 : i]` with `j` capacity
     2. Recurrence Relation: `dp[j] = max(dp[j], dp[j - weight[i]] + value[i])`
         - compared to the 2D version, the `dp[j]` in the max is like `dp[j]` in the last row.
     3. Initialization
