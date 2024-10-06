@@ -18,7 +18,8 @@
         int noValue = 0;
         // Prunning: We can only bring this item if weight doesn't exceed. 
         if(totalWeight + weight[i] <= n) {
-            hasValue = backtracking(i + 1, m, n, value, weight, totalValue + value[i], totalWeight + weight[i]);
+            hasValue = backtracking(i + 1, m, n, value, weight, totalValue + value[i], 
+		            totalWeight + weight[i]);
         }
         noValue = backtracking(i + 1, m, n, value, weight, totalValue, totalWeight);
         return max(hasValue, noValue);
