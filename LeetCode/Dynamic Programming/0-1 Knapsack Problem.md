@@ -111,7 +111,9 @@ Explicit Initialization: For `objects[0]`, initialize the first row according to
 
 ```cpp
 vector<int> dp(bagVolume + 1, 0);
-// traverse items
+for(int i = weight[0]; i <= bagVolume; i++) {
+	
+}
 for(int i = 0; i < m; i++) {
 	// traverse volumes backward
 	// note we use >=weight[i] in case that this volume cannot hold ith item
