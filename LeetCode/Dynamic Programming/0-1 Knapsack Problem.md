@@ -94,32 +94,47 @@
     
     Time: $O(m*n)$﻿ Space: $O(m*n)$﻿
     
-- 1D dp
-    
-    - Because we just need the last row，we can use a n-element array and traverse m times to save space.
-    
-    1. `dp[j]` means that the max value of a `bag[0 : i]` with `j` capacity
-    2. Recurrence Relation: `dp[j] = max(dp[j], dp[j - weight[i]] + value[i])`
-        - compared to the 2D version, the `dp[j]` in the max is like `dp[j]` in the last row.
-    3. Initialization
-        - `dp[0] = 0` because bag cannot contain anything with 0 capacity.
-        - Initialize all elements in the first row to be 0. Since our minimum value is 0, we just don’t want the initial value to be anything >0 to interfere the value we deduce later when we are using max. Also, initial value can not be negative. If the bag cannot contain any items, the final result would be negative. This row doesn’t strictly meet the definition of the dp array.
-        - **Why don’t we need to initialize the first row like we did in the 2D version?** Because in 1D version we will include this part in the recurrence process.
-    4. Traversal: Items then volume. For volume (`j`) we need to **traverse backward**. If we traverse forward, we will use grids that have been updated for this row. If we traverse backward, we will only use old data from last row.
-    
-    ```C++
-    vector<int> dp(bagVolume + 1, 0);
-    // traverse items
-    for(int i = 0; i < m; i++) {
-        // traverse volumes backward
-        // note we use >=weight[i] in case that this volume cannot hold ith item
-        for(int j = bagVolume; j >= weight[i]; j--) {
-            dp[j] = max(dp[j], dp[j - weight[i]] + value[i]);
-        }
-    }
-    cout<<dp[bagVolume]<<endl;
-    ```
-    
-    Note we use a trick `>= weight[i]` , in this case we know this volume cannot hold item `i` , so we just don’t update it. Just like we copy the data from last row in 2D version.
-    
-    Time: $O(m * n)$﻿ Space: $O(n)$
+# 1D dp
+
+Because we just need the last row，we can use a n-element array and traverse m times to save space.
+
+1. `dp[j]` means that the max value of a `bag[0 : i]` with `j` capacity
+2. Recurrence Relation: `dp[j] = max(dp[j], dp[j - weight[i]] + value[i])`
+	- compared to the 2D version, the `dp[j]` in the max is like `dp[j]` in the last row.
+3. Initialization
+	- `dp[0] = 0` because bag cannot contain anything with 0 capacity.
+	- Initialize all elements in the first row to be 0. Since our minimum value is 0, we just don’t want the initial value to be anything >0 to interfere the value we deduce later when we are using max. Also, initial value can not be negative. If the bag cannot contain any items, the final result would be negative. This row doesn’t strictly meet the definition of the dp array.
+	- **Why don’t we need to initialize the first row like we did in the 2D version?** Because in 1D version we will include this part in the recurrence process.
+4. Traversal: Items then volume. For volume (`j`) we need to **traverse backward**. If we traverse forward, we will use grids that have been updated for this row. If we traverse backward, we will only use old data from last row.
+
+Explicit Initialization: For `objects[0]`, initialize the first row according to the definition. Just like the 2D version.
+
+```cpp
+vector<int> dp(bagVolume + 1, 0);
+// traverse items
+for(int i = 0; i < m; i++) {
+	// traverse volumes backward
+	// note we use >=weight[i] in case that this volume cannot hold ith item
+	for(int j = bagVolume; j >= weight[i]; j--) {
+		dp[j] = max(dp[j], dp[j - weight[i]] + value[i]);
+	}
+}
+cout<<dp[bagVolume]<<endl;
+```
+
+```cpp
+vector<int> dp(bagVolume + 1, 0);
+// traverse items
+for(int i = 0; i < m; i++) {
+	// traverse volumes backward
+	// note we use >=weight[i] in case that this volume cannot hold ith item
+	for(int j = bagVolume; j >= weight[i]; j--) {
+		dp[j] = max(dp[j], dp[j - weight[i]] + value[i]);
+	}
+}
+cout<<dp[bagVolume]<<endl;
+```
+
+Note we use a trick `>= weight[i]` , in this case we know this volume cannot hold item `i` , so we just don’t update it. Just like we copy the data from last row in 2D version.
+
+Time: $O(m * n)$﻿ Space: $O(n)$
