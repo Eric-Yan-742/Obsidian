@@ -75,8 +75,5 @@ Sliding window is good at at most, not at least and exact occurences of somethin
 [[Minimum Swaps to group all 1s and all 0s together]]
 
 Problems that I did in the past (not recorded).
-- maximum, shift both left and right. 
-- Using deque
-	- 862
 
 904
