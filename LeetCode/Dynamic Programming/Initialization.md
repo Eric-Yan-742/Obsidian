@@ -1,4 +1,4 @@
-When we have a new dp definition, the most proper and clearest way to initialize is to follow the smallest value of definition. As long as the values follow the definition, they are guaranteed to be correct. 
+When we have a new dp definition, the most structured and clearest way to initialize is to follow the smallest value of definition. As long as the values follow the definition, they are guaranteed to be correct. 
 
 After we do initialization in the standard way, we may find a way to incorporate the initialization into our recurrece process. The first iteration of the recurrence loop could accomplish the job of initialization. To aid the recurrence process to initialize, we assign the dp array some initial values that are not within the scope of the definition, which is confusing sometimes. Just remember these values are nothing special. They are just there to help the recurrence loop to accomplish initialization. 
 
