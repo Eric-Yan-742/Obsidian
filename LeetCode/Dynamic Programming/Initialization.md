@@ -1,0 +1,1 @@
+When we have a new dp definition, the most proper and clearest way to initialize is to follow the smallest value of definition. As long as the values follow the definition, they are guaranteed to be correct. After we do initialization in the standard way, we may find a way to incorporate the initialization into our 
