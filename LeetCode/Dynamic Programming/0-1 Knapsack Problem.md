@@ -52,7 +52,7 @@
         2. If bring `i` , max value is `dp[i - 1][j - weight[i]] + value[i]` . `j - weight[i]` because `j` has to be able to contain object `i` .
         
         - `dp[i][j] = max(dp[i - 1][j], dp[i - 1][j - weight[i]] + value[i])` .
-    - Initialization
+    - Initialization: This initialization follows the definition. 
         - `dp[i - 1][j]` is the grid right above, `dp[i - 1][j - weight[i]]` is all the grids on the left of `dp[i - 1][j]` at the same row. Thus, we need to initialize the first row and first column.
             
             ![[_attachments/Untitled 48.png|Untitled 48.png]]
