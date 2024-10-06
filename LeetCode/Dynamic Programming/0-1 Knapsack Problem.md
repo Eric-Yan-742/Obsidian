@@ -45,7 +45,7 @@
     
 - 2D dp
     
-    - `dp[i][j]` : `dp[i][j]` is the maximum value we can get considering objects [1, i+1] with volume j.
+    - `dp[i][j]` : `dp[i][j]` is the maximum value we can get considering objects `[1, i+1]` with volume j.
     - Recurrence Relation
         
         1. If don’t bring item `i` , max value is `dp[i - 1][j]`
