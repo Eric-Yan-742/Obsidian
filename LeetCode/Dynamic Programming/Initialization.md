@@ -17,3 +17,5 @@ Below are some dp templates where we use implicit initialization. Explicit initi
 [[1049. Last Stone Weight II]]
 
 ## Number of items
+
+[[494. Target Sum]]
