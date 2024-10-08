@@ -28,7 +28,6 @@ Implicit Initialization:
 for(int i = 0; i < weight.size(); i++) {
     for(int j = weight[i]; j <= bagWeight ; j++) {
         dp[j] = max(dp[j], dp[j - weight[i]] + value[i]);
-
     }
 }
 ```
