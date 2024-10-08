@@ -22,7 +22,7 @@ Below are some dp templates where we use implicit initialization. Explicit initi
 
 # Complete Knapsack problem
 
-Initialization is basically the same as 0-1 knapsack. However, it becomes more complicated. Elements later in the dp array depend on the elements before. Thus, we cannot simply assign some elments in the first row some values. We have to use the recurrence relation (or at least a simplified version) during initialization. That makes the integration into the recurrence relation more natural. 
+Initialization is basically the same as 0-1 knapsack. However, it becomes more complicated. Elements later in the dp array depend on the elements before. Thus, we cannot simply assign some elments in the first row with some values. We have to use the recurrence relation (or at least a simplified version) during initialization. That makes the integration into the recurrence relation more natural. 
 ## Max value
 
 [[Complete Knapsack Problem]]
