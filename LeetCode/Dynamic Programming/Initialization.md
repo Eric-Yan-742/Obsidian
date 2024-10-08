@@ -16,7 +16,7 @@ Below are some dp templates where we use implicit initialization. Explicit initi
 
 [[1049. Last Stone Weight II]]
 
-## Number of items
+## Number of combinations
 
 [[494. Target Sum]]
 
@@ -28,11 +28,11 @@ Initialization is basically the same as 0-1 knapsack. It's just now we initializ
 
 [[Complete Knapsack Problem]]
 
-## Number of items (combinations)
+## Number of combinations
 
 [[518. Coin Change II]]
 
-## Number of items (permutations)
+## Number of permutations
 
 Use a different definition of climbing stairs. 
 
