@@ -108,7 +108,7 @@ Explicit Initialization: For `objects[0]`, initialize the first row according to
 
 ```cpp
 vector<int> dp(bagVolume + 1, 0);
-for(int i = bagVolume; i <= ; i++) {
+for(int i = bagVolume; i >= weight[0] ; i++) {
 	dp[i] = value[0];
 }
 for(int i = 0; i < m; i++) {
