@@ -28,6 +28,6 @@ Initialization is basically the same as 0-1 knapsack. It's just now we initializ
 
 [[Complete Knapsack Problem]]
 
-## Number of items
+## Number of items (combinations)
 
 [[518. Coin Change II]]
