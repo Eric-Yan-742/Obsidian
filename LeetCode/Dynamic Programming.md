@@ -28,10 +28,6 @@
 
 ---
 
-  
-
-- For knapsack problem, initialization has meaning for `dp[0] = 0` (capacity = 0). For the rest of the `dp[j]` , they are meaningless, just to ensure the correctness of the calculation.
-
 [[0-1 Knapsack Problem]]
 
 [[416. Partition Equal Subset Sum]]
