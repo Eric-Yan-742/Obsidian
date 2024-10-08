@@ -19,3 +19,15 @@ Below are some dp templates where we use implicit initialization. Explicit initi
 ## Number of items
 
 [[494. Target Sum]]
+
+# Complete Knapsack problem
+
+Initialization is basically the same as 0-1 knapsack. It's just now we initialize from left to right to use an item multiple times. 
+
+## Max value
+
+[[Complete Knapsack Problem]]
+
+## Number of items
+
+[[518. Coin Change II]]
