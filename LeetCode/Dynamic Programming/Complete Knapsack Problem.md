@@ -9,6 +9,12 @@
 Explicit Initialization:
 
 ```cpp
+for(int i = weight[0]; i <= bagWeight; i++) {
+	
+}
+```
+
+```cpp
 // 先遍历物品，再遍历背包
 for(int i = 0; i < weight.size(); i++) { // 遍历物品
     for(int j = weight[i]; j <= bagWeight ; j++) { // 遍历背包容量
