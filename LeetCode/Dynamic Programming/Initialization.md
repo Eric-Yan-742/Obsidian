@@ -34,6 +34,6 @@ Initialization is basically the same as 0-1 knapsack. It's just now we initializ
 
 ## Number of items (permutations)
 
-Use a different definition of climbing stairs. Except `dp[0]`, all `dp[1, n - 1]` are also assigned 0 initially. This is an aid to the recurrence relation, not part of the initializaiton. 
+Use a different definition of climbing stairs. 
 
 [[377. Combination Sum IV]]
