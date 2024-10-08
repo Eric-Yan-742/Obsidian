@@ -9,6 +9,7 @@
 Explicit Initialization:
 
 ```cpp
+vector<int> dp(n + 1, 0);
 for(int i = weight[0]; i <= bagWeight; i++) {
 	
 }
