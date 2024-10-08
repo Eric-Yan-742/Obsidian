@@ -11,14 +11,22 @@ Explicit Initialization:
 ```cpp
 vector<int> dp(n + 1, 0);
 for(int i = weight[0]; i <= bagWeight; i++) {
-	
+	dp[i] = max(dp[i], dp[i - weight[0]] + value[0]);
+}
+for(int i = 0; i < weight.size(); i++) { // 遍历物品
+    for(int j = weight[i]; j <= bagWeight ; j++) { // 遍历背包容量
+        dp[j] = max(dp[j], dp[j - weight[i]] + value[i]);
+
+    }
 }
 ```
 
+Implicit Initialization: 
+
 ```cpp
 // 先遍历物品，再遍历背包
-for(int i = 0; i < weight.size(); i++) { // 遍历物品
-    for(int j = weight[i]; j <= bagWeight ; j++) { // 遍历背包容量
+for(int i = 0; i < weight.size(); i++) {
+    for(int j = weight[i]; j <= bagWeight ; j++) {
         dp[j] = max(dp[j], dp[j - weight[i]] + value[i]);
 
     }
