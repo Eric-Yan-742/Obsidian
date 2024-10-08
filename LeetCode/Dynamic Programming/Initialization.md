@@ -31,3 +31,9 @@ Initialization is basically the same as 0-1 knapsack. It's just now we initializ
 ## Number of items (combinations)
 
 [[518. Coin Change II]]
+
+## Number of items (permutations)
+
+Use a different definition of climbing stairs. 
+
+[[377. Combination Sum IV]]
