@@ -6,6 +6,16 @@
 3. Initialization: same as [[0-1 Knapsack Problem]]
 4. Traversal Order: When traversing the same row (capacity), we do left to right instead of right to left. `for(int j = weight[i]; j <= bagWeight; j++)`
 
+```cpp
+// 先遍历物品，再遍历背包
+for(int i = 0; i < weight.size(); i++) { // 遍历物品
+    for(int j = weight[i]; j <= bagWeight ; j++) { // 遍历背包容量
+        dp[j] = max(dp[j], dp[j - weight[i]] + value[i]);
+
+    }
+}
+```
+
 - Why do we traverse from left to right? Look at this example
     - Items:
         
