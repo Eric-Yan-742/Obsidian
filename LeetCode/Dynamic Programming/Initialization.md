@@ -6,9 +6,13 @@ Although this optimization of implicit definition makes our code more concise, i
 
 Below are some dp templates where we use implicit initialization. Explicit initialization is written out first to help illustrate the implicit initialization
 
-# 0-1 Knapsack problem
+# Knapsack Problem
 
-## Max value
+A trick of initialization for knapsack problem is that you can think of the base case as not considering any element or an empty set `{}`. This is ambiguously within the definition, but does produce the right result for all our definitions. 
+
+## 0-1 Knapsack problem
+
+### Max value
 
 [[0-1 Knapsack Problem]]
 
@@ -16,27 +20,29 @@ Below are some dp templates where we use implicit initialization. Explicit initi
 
 [[1049. Last Stone Weight II]]
 
-## Number of combinations
+### Number of combinations
 
 [[494. Target Sum]]
 
-# Complete Knapsack problem
+## Complete Knapsack problem
 
 Initialization is basically the same as 0-1 knapsack. However, it becomes more complicated. Elements later in the dp array depend on the elements before. Thus, we cannot simply assign some elments in the first row with some values. We have to use the recurrence relation (or at least a simplified version) during initialization. That makes the integration into the recurrence relation more natural. 
-## Max value
+### Max value
 
 [[Complete Knapsack Problem]]
 
-## Number of combinations
+### Number of combinations
 
 [[518. Coin Change II]]
 
-## Number of permutations
+### Number of permutations
 
 Use a different definition of climbing stairs. 
 
 [[377. Combination Sum IV]]
 
-## Number of items
+### Number of items
+
+Sometimes by the definition, there just shouldn't be anything in that cell of the array. 
 
 [[322. Coin Change]]
