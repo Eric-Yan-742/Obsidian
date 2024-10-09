@@ -39,4 +39,4 @@ Use a different definition of climbing stairs.
 
 ## Number of items
 
-[[518. Coin Change II]]
+[[322. Coin Change]]
