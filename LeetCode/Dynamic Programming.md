@@ -28,42 +28,44 @@
 
 ---
 
+## 0-1 Knapsack
+
+### Value
+
 [[0-1 Knapsack Problem]]
 
 [[416. Partition Equal Subset Sum]]
 
 [[1049. Last Stone Weight II]]
 
-  
+### Number of Combinations
 
 [[494. Target Sum]]
 
 [[474. Ones and Zeroes]]
 
-  
+## Complete Knapsack
+
+### Value
 
 [[Complete Knapsack Problem]]
 
+### Number of combinations
+
 [[518. Coin Change II]]
 
-[[377. Combination Sum IV]]
-
-
+### Number of items to fill
 
 [[322. Coin Change]]
 
 [[279. Perfect Squares]]
 
-  
+### Number of permutations
 
-- Climbing Stairs
-    
-    - Each items are reusable. Permutation that sum exactly to a given target
-    
-    [[377. Combination Sum IV]]
-    
-    [[139. Word Break]]
-    
+[[377. Combination Sum IV]]
+
+[[139. Word Break]]
+
 
 ---
 
