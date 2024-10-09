@@ -8,7 +8,7 @@
     
     Try all possible options that
     
-    ```C++
+    ```cpp
     int backtracking(int i, int m, int n,vector<int>& value, vector<int>& weight, 
             int totalValue, int totalWeight) {
         // if i==m, it means we've checked all items in this branch
