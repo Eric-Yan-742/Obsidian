@@ -8,7 +8,7 @@ Below are some dp templates where we use implicit initialization. Explicit initi
 
 # Knapsack Problem
 
-A trick of initialization for knapsack problem is that you can think of the base case as not considering any element or an empty set `{}`. This is ambiguously within the definition, but does produce the right result for all our definitions. 
+A trick of initialization for knapsack problem is that you can think of the base case as not considering any element or an empty set `{}`. This is ambiguously within the definition, but does produce the right result for all our definitions. Now all the implicit definition becomes explicit definition. 
 
 ## 0-1 Knapsack problem
 
