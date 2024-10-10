@@ -81,7 +81,7 @@
 
 [[121. Best Time to Buy and Sell Stock]]
 
-[[LeetCode/Greedy/122. Best Time to Buy and Sell Stock II|122. Best Time to Buy and Sell Stock II]]
+[[LeetCode/Dynamic Programming/122. Best Time to Buy and Sell Stock II|122. Best Time to Buy and Sell Stock II]]
 
 [[123. Best Time to Buy and Sell Stock III]]
 
