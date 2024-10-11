@@ -48,3 +48,7 @@ Sometimes by the definition, there just shouldn't be anything in that cell of th
 [[322. Coin Change]]
 
 [[279. Perfect Squares]]
+
+# Common Subarray/Subsequence Problem
+
+Explcit 
