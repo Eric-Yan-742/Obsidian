@@ -53,9 +53,17 @@ Sometimes by the definition, there just shouldn't be anything in that cell of th
 
 Explicit initialization start from the first element of both arrays `nums1[0]` and `nums2[0]`. However, the implicit one is not completely meaningless. We can think about it like we haven't considered any elements yet, just like the [[#Knapsack Problem]]. 
 
+## Subarray
+
 [[718. Maximum Length of Repeated Subarray]]
+
+## Subsequence
 
 [[1143. Longest Common Subsequence]]
 
 [[1035. Uncrossed Lines]]
+
+## Mix
+
+[[392. Is Subsequence]]
 
