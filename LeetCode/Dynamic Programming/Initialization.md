@@ -65,5 +65,11 @@ Explicit initialization start from the first element of both arrays `nums1[0]` a
 
 ## Mix
 
+### Length
+
 [[392. Is Subsequence]]
+
+### Number that matches
+
+[[115. Distinct Subsequences]]
 
