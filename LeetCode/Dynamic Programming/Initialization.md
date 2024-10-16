@@ -73,3 +73,9 @@ Explicit initialization start from the first element of both arrays `nums1[0]` a
 
 [[115. Distinct Subsequences]]
 
+## Min number of operations
+
+[[583. Delete Operation for Two Strings]]
+
+[[72. Edit Distance]]
+
