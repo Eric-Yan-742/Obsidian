@@ -51,7 +51,7 @@ Sometimes by the definition, there just shouldn't be anything in that cell of th
 
 # Common Subarray/Subsequence Problem
 
-Explicit initialization start from the first element of both arrays `nums1[0]` and `nums2[0]`. However, the implicit one is not completely meaningless. We can think about it like we haven't considered any elements yet, just like the [[#Knapsack Problem]]. 
+Explicit initialization start from the first element of both arrays `nums1[0]` and `nums2[0]`. However, we can add empty set into our definitions just like how we do in [[#Knapsack Problem]]. 
 
 ## Subarray
 
