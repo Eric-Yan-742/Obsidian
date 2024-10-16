@@ -53,11 +53,11 @@ Sometimes by the definition, there just shouldn't be anything in that cell of th
 
 Explicit initialization start from the first element of both arrays `nums1[0]` and `nums2[0]`. However, we can add empty set into our definitions just like how we do in [[#Knapsack Problem]]. It works for all common subarray/subsequence problems as well. 
 
-## Subarray
+## Subarray length
 
 [[718. Maximum Length of Repeated Subarray]]
 
-## Subsequence
+## Subsequence length
 
 [[1143. Longest Common Subsequence]]
 
