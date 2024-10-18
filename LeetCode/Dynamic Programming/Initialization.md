@@ -26,7 +26,7 @@ Only considering the first item is strictly within our definition and must be a 
 
 ## Complete Knapsack problem
 
-Initialization is basically the same as 0-1 knapsack. However, it becomes more complicated. Elements later in the dp array depend on the elements before. Thus, we cannot simply assign some elments in the first row with some values. We have to use the recurrence relation (or at least a simplified version) during the explicit initialization. Similarly, we can use the empty bag trick that avoids 
+Initialization is basically the same as 0-1 knapsack. However, it becomes more complicated. Elements later in the dp array depend on the elements before. Thus, we cannot simply assign some elments in the first row with some values. We have to use the recurrence relation (or at least a simplified version) during the explicit initialization. Similarly, we can use the empty bag trick that avoids the overhead of empty bag. 
 ### Max value
 
 [[Complete Knapsack Problem]]
