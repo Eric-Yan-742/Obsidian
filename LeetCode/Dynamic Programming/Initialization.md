@@ -6,7 +6,7 @@ Although this optimization of implicit definition makes our code cleaner, it red
 
 General Steps of Initialization for a new dp definition
 1. Come up with an explicit initialization with the smallest value **within** the scope of definition. No index out of bound.
-2. Then we can try to integrate some parts of the initialization into the recurrence loop. We can insert some dummy initial values to help us. Those values are either completely meaningless or ambiguously defined. 
+2. Then we can try to integrate some parts of the initialization into the recurrence loop. We can insert some dummy initial values to help us. Those values are either completely meaningless or ambiguously defined. The first round of the loop will use the dummy values to get the correct smallest value within the definition. 
 
 Below are some dp templates where we use implicit initialization. Explicit initialization is written out first to help illustrate the implicit initialization
 
