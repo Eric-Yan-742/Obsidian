@@ -79,3 +79,7 @@ Explicit initialization start from the first element of both arrays `nums1[0]` a
 
 [[72. Edit Distance]]
 
+# Palindromic
+
+[[647. Palindromic Substrings]]
+
