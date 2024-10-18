@@ -81,5 +81,10 @@ Explicit initialization start from the first element of both arrays `nums1[0]` a
 
 # Palindromic
 
+## Number
+
 [[647. Palindromic Substrings]]
 
+## Length
+
+[[516. Longest Palindromic Subsequence]]
