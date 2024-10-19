@@ -1,4 +1,4 @@
-[[基础]]
+[[Basics]]
 
 The key is to figure out each step of the counting, which corresponds to each level of recursion. Then draw the tree diagram out.
 
@@ -53,9 +53,6 @@ Remove duplicate
 ## Remove duplicate
 
 [[47. Permutations II]]
-
-
-  
 
 # Board
 
