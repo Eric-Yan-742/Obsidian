@@ -35,7 +35,7 @@ The key is to figure out each step of the counting, which corresponds to each le
 
 [[78. Subsets]]
 
-Remove duplicate
+## Remove duplicate
 
 [[90. Subsets II]]
 
