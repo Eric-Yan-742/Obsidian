@@ -20,7 +20,7 @@ The key is to figure out each step of the counting, which corresponds to each le
 
   
 
-# Subsequence (never need to remove duplicate)
+# Subsequence 
 
 [[131. Palindrome Partitioning]]
 
