@@ -1,7 +1,8 @@
 [[Basics]]
 
-The key is to figure out each step of the counting, which corresponds to each level of recursion. Then draw the tree diagram out.
-
+- If this element is not in the loop, when do we continue and when do we return?
+	- If we still want to check later elements in the same level, we continue to skip this element. We do it when later elements may still be valid. e.g. [[491. Non-decreasing Subsequences]]
+	- If we don't want to check later elements in the same level, which means all elements after is impossible to be valid, we return to stop checking the whole level. e.g. [[93. Restore IP Addresses]]
 # Combinations
 
 ## No Duplicate
