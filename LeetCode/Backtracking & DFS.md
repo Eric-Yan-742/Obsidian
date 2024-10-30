@@ -52,7 +52,7 @@
 
 [[46. Permutations]]
 
-@
+[[22. Generate Parentheses]]
 ## Remove duplicate
 
 [[47. Permutations II]]
