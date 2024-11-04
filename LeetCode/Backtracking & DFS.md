@@ -61,4 +61,8 @@
 
 [[51. N-Queens]]
 
-[[37. Sudoku Solver]]
+[[37. Sudoku Solver]]A
+
+# Path
+
+[[79. Word Search]]
