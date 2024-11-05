@@ -61,8 +61,10 @@
 
 [[51. N-Queens]]
 
-[[37. Sudoku Solver]]A
+[[37. Sudoku Solver]]
 
 # Path
 
 [[79. Word Search]]
+
+[[200. Number of Islands]]
