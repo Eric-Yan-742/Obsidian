@@ -63,8 +63,12 @@
 
 [[37. Sudoku Solver]]
 
-# Path
+# Pathfinding
 
 [[79. Word Search]]
 
 [[200. Number of Islands]]
+
+# Topological Sort
+
+[[210. Course Schedule II]]
