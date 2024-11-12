@@ -69,6 +69,7 @@
 
 [[200. Number of Islands]]
 
+[[212. Word Search II]]
 # Topological Sort
 
 [[210. Course Schedule II]]
