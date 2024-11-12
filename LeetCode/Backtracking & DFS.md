@@ -12,13 +12,21 @@
 
 [[216. Combination Sum III]]
 
-[[17. Letter Combinations of a Phone Number]]
 
 [[39. Combination Sum]]
 
 ## Remove duplicate
 
 [[40. Combination Sum II]]
+
+# Ordered Numbe Sequence
+
+- Use product rule
+
+[[17. Letter Combinations of a Phone Number]]
+
+[[282. Expression Add Operators]]
+
 
   
 
