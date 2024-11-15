@@ -1,5 +1,9 @@
 [[Basics]]
 
+1. Enumeration topics: [[#Combinations]], [[#Ordered Numbe Sequence]], [[#Subsequence]], [[#Subsets]], [[#Permutation]], [[#Board]]
+	- In these topics, we keep creating nodes in a tree structure. Since we will only explore each node once, we do not care about how to process the node after we visit it. 
+2. Graph topics: [[#Pathfinding]], [[#Topological Sort]]
+	- These topics fit the topics of DFS better. We're actually exploring in a graph, and we may reach one node several times. 
 - If this element is not in the loop, when do we continue and when do we return?
 	- If we still want to check later elements in the same level, we continue to skip this element. We do it when later elements may still be valid. e.g. [[491. Non-decreasing Subsequences]]
 	- If we don't want to check later elements in the same level, which means all elements after is impossible to be valid, we return to stop checking the whole level. e.g. [[93. Restore IP Addresses]]
