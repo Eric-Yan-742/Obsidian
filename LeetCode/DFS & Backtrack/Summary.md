@@ -28,17 +28,11 @@
 
 [[17. Letter Combinations of a Phone Number]]
 
-
-
-  
-
 # Subsequence 
 
 [[131. Palindrome Partitioning]]
 
 [[93. Restore IP Addresses]]
-
-  
 
 # Subsets
 
