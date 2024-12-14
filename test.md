@@ -30,3 +30,8 @@
 ![](../_attachments/Pasted%20image%2020241214114022.png)
 
 [test2](../test2.md)
+
+[[test2]]
+
+[[test/test2|test2]]
+
