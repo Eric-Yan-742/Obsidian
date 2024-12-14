@@ -25,3 +25,5 @@
 
 
 ![](Pasted%20image%2020241214112746.png)
+
+![](_attachments/Pasted%20image%2020241214112901.png)
