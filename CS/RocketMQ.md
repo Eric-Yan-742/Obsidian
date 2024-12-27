@@ -9,7 +9,6 @@
 - 代理者点位：指向最新生产的消息
 - 代理者点位 - 消费者点位 = 差值（还未消费的消息数）
 
-  
 
 # 消息模型
 
@@ -19,7 +18,7 @@
     - Spring SDK consumer默认是push模式。
 - 原生SDK中不管是DefaultMQPushConsumer还是DefaultMQPullConsumer，底层其实都是pull模式
 - 批量发送消息会发送到一个队列
-- List<MessageExt> msgs
+- `List<MessageExt> msgs`
     - `**MessageExt**` 是 RocketMQ 的一个类，表示从消息队列中消费的一条消息。它是 `Message` 类的扩展，包含了更多关于消息的元数据，例如消息的主题、标签、消息 ID、消息的产生时间等。
     - `**List<MessageExt> msgs**` 表示消费端一次接收到的一批消息。RocketMQ 支持批量消费，所以消息消费监听器（如 `MessageListenerConcurrently` 的实现类）每次调用 `consumeMessage` 方法时，可能会收到多条消息。
     - 不管是push还是pull模式，一次都有可能收到多条消息。
