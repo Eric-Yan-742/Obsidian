@@ -1,1 +1,0 @@
-![[_attachments/Untitled 173.png|Untitled 173.png]]

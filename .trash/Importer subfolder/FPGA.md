@@ -1,1 +1,0 @@
-[[/Redpitaya|Redpitaya]]

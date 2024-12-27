@@ -1,7 +1,0 @@
-- font-size: rem
-- width: %, max-width, or ch
-- height: do I need to set a height? If yes — set min-height
-- padding/margin: rem/em
-- media queries: em
-- Shadow: px
-- border: px
