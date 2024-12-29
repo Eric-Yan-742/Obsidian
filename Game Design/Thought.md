@@ -1,1 +1,1 @@
-- When aligning two objects, use 3D perspective mode to move the object to the about right position. Then try to use 
+- When aligning two objects, use 3D perspective mode to move the object to the about right position. Then try to use the scene view gizmos and isometric view to align the object in different perspectives. Top, left, right, back, front, bottom. 
