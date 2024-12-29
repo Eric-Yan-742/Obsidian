@@ -1,0 +1,1 @@
+- When aligning two objects, use 3D perspective mode to move the object to the about right position. Then try to use 
