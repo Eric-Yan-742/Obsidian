@@ -6,3 +6,4 @@
 	- ![[Pasted image 20241229104253.png]]
 	- After I click the -> arrow, the variant is actually elsewhere. 
 - You can use local coordinate to rotate the object to the right orientation. Its local y-coordinate should point straight up. 
+- 
