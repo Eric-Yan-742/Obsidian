@@ -1,2 +1,8 @@
 - When aligning two objects, use 3D perspective mode to move the object to the about right position. Then try to use the scene view gizmos and isometric view to align the object in different perspectives. Top, left, right, back, front, bottom. 
 - Variant and the actual object are two different things?
+	- ![[Pasted image 20241229104231.png]]
+	- ![[Pasted image 20241229104239.png]]
+	- The actual middle tube is in the right orientation, but the "middle tube variant" is not. 
+	- ![[Pasted image 20241229104253.png]]
+	- After I click the -> arrow, the variant is actually elsewhere. 
+- You can use local coordinate to rotate the object to the right orientation. Its local y-coordinate should point straight up. 
