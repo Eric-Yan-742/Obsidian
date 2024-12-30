@@ -6,4 +6,4 @@
 	- ![[Pasted image 20241229104253.png]]
 	- After I click the -> arrow, the variant is actually elsewhere. 
 - You can use local coordinate to rotate the object to the right orientation. Its local y-coordinate should point straight up. 
-- 
+- A **collider** is a component that defines the shape of an object for the purpose of physical collisions and interactions within the environment. Without a collider, an object has no physical boundaries and other objects can go right through it — like a cloud.
