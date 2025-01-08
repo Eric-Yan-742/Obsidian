@@ -1,0 +1,1 @@
+- 2025/01/07: About 2 hours of tutorials (4 hours). 
