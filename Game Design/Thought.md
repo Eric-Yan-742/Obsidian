@@ -11,3 +11,6 @@
 - RigidBody 2D: Difference between mass and linear/angular damping
 	- Mass: Mass is about how resistant the object is to changes in its motion (inertia).
 	- Damping: Damping determines how quickly velocity (linear or angular) decreases over time due to resistance
+	- Why Unity treats them differently: 
+		1. A light object (e.g., a feather) can have high damping to simulate air resistance.
+		2. A heavy object (e.g., a bowling ball) can have low damping to allow it to roll smoothly.
