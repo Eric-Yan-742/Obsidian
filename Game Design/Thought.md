@@ -8,3 +8,6 @@
 - You can use local coordinate to rotate the object to the right orientation. Its local y-coordinate should point straight up. 
 - A **collider** is a component that defines the shape of an object for the purpose of physical collisions and interactions within the environment. Without a collider, an object has no physical boundaries and other objects can go right through it — like a cloud. 
 - With a Rigidbody component, objects will have mass and respond to gravity.
+- RigidBody 2D: Difference between mass and linear/angular damping
+	- Mass: Mass is about how resistant the object is to changes in its motion (inertia).
+	- Damping: Damping determines how quickly velocity (linear or angular) decreases over time due to resistance
