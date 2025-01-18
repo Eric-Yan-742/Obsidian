@@ -15,4 +15,4 @@
 
 ✧ Developed a sysinfo system call for reporting free memory and unused processes, and implemented copy-on-write       forks using page-fault handling to optimize physical memory use. 
 
-✧ Extended xv6’s file system with a doubly indirect inode structure, achieving a 200x file size increase and greatly  expanding storage capability.**
+✧ Extended xv6’s file system with a doubly indirect inode structure, achieving a 200x file size increase and greatly  expanding storage capability.
