@@ -13,7 +13,7 @@ Here's a list of recruiter emails. You can email recruiters directly instead of 
 9. [dandan.liu@bytedance.com](mailto:dandan.liu@bytedance.com)
 10. [peterhkim@meta.com](mailto:peterhkim@meta.com)
 
-## E-mail
+## E-mail Template
 
 Title:
 
