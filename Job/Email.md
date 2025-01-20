@@ -15,6 +15,26 @@ Here's a list of recruiter emails. You can email recruiters directly instead of 
 
 ## E-mail
 
+Title:
 
+U Chicago Student Interested in Technical Opportunities at `[Company Name]`
 
+  
 
+Hi `[First Name]`,
+
+  
+
+I'm a 4th year undergraduate at the University of Chicago, studying Computer Science and Statistics. I interned as a software engineer at PayPal last summer, working on applications to analyze and process complaints.
+
+  
+
+I'm graduating this June, and I'm currently looking for full time positions. If you're available over the phone for a quick chat about potential opportunities at `[Company Name]`, I'd greatly appreciate it. 
+
+  
+
+  
+
+Best,
+
+Kevin
