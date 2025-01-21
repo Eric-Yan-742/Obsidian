@@ -11,4 +11,5 @@ Introduction: Hi I'm Eric. Now I'm a third year student studying in UC San Diego
 
 Internship at Xiaomi: 
 - What did you do? The financial staff will upload many sales performance reports in excel sheets. They contain each employer's name, their sales revenue in the past month, and their positions etc. I need to download and parse the excel spreasheets. Sotre the information into data base. Reorganize the data for reviewing and calculate the incentive bonuses for each employers. It helps them improve the speed of reviewing and calculating the bills. 
-- Switch data source: In Spring, you can create a Java interface for data manipulation. You may add, update, delete, search different data with different constraint.  Say you may expect to use different data bases later, their data access procedure and query langauge are different. 
+- Switch data source: Accessing data souce is a big part of back end program. You may add, update, delete, search different data with different constraint. Sometimes you may expect to use different data bases in the future, their data access procedure and query langauge are different. 
+- Front end and backend manipulation. 
