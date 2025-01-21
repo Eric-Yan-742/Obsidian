@@ -8,3 +8,5 @@ STAR(T)standsfor:
 - Additionalstep: Transfer-How did the situation help you develop and what did you learn?
 
 Introduction: Hi I'm Eric. Now I'm a third year student studying in UC San Diego. I major in CS and math. I have course work in data structure, algorithm design, operating system, and a bunch of math classes. I did an internship at Xiaomi last year. I used Java with its web framework Springboot and MySQL. 
+
+Internship at Xiaomi: 
