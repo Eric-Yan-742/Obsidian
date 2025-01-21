@@ -7,4 +7,4 @@ STAR(T)standsfor:
 - Result-What was the result or what did you achieve? 
 - Additionalstep: Transfer-How did the situation help you develop and what did you learn?
 
-Introduction: Hi I'm Eric. Now I'm a third year student studying in UC San Diego. I major in CS and math. I did an internship at Xiaomi last year. About my tech skills, I have experience with Java, some of its web framework like Springboot, and . I've also been using C/C++ primarily in school. 
+Introduction: Hi I'm Eric. Now I'm a third year student studying in UC San Diego. I major in CS and math. I did an internship at Xiaomi last year. I have experience with Java with its web frameworkSpringboot and MySQL. I've also been using C/C++ primarily in school. 
