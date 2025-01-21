@@ -1,7 +1,9 @@
 {
   "cssTheme": "Tokyo Night",
   "theme": "obsidian",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "code_block_scrolling"
+  ],
   "baseFontSize": 16,
   "baseFontSizeAction": false
 }
