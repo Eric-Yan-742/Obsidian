@@ -16,5 +16,5 @@ Internship at Xiaomi:
 - Stream API: A stream is a like a sequence of elements that can be processed in a functional style. It can be a list or a hash map. There are many operations like map, filter, groupby, which are quite useful for parsing excel data. If you want to convert a list of one type of objects to a list of other type, it makes the code much more readable than using nested loops. 
 
 xv6:
-- Copy on write fork: 
+- Copy on write fork: Fork is used to create a child process. The child process has the exact same memory as its parent process. 
 - Doubly indirect node: 
