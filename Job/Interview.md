@@ -9,7 +9,7 @@ STAR(T)standsfor:
 
 Introduction: Hi I'm Eric. Now I'm a third year student studying in UC San Diego. I major in CS and math. I have course work in data structure, algorithm design, operating system, and a bunch of math classes. I did an internship at Xiaomi last year. I used Java with its web framework Springboot and MySQL. 
 1. Major and School
-2. Previous internship. What was your primary responsibility?
+2. Previous internship. What was your primary responsibility? My main responsibility is to process some financial bills. Implement some apis to reorganize and calculate the financial data. The main tech stacks I used was Java, Springboot, and MySQL. 
 
 Behavioral Question
 1. Which project are you most proud of? 
