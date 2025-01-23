@@ -8,6 +8,8 @@ STAR(T)standsfor:
 - Additionalstep: Transfer-How did the situation help you develop and what did you learn?
 
 Introduction: Hi I'm Eric. Now I'm a third year student studying in UC San Diego. I major in CS and math. I have course work in data structure, algorithm design, operating system, and a bunch of math classes. I did an internship at Xiaomi last year. I used Java with its web framework Springboot and MySQL. 
+1. Major and School
+2. Previous internship. What was your primary responsibility?
 
 Internship at Xiaomi: 
 - What did you do: The company has to distribute incentive bonuses to sales staff in the physicla stores according to their sales performance. The financial staff will upload many sales performance reports in excel sheets. They contain each employer's name, their sales revenue in the past month, and their positions etc. I develope an app to download and parse the excel spreasheets. Sotre the information into data base. Reorganize the data for reviewing and calculate the incentive bonuses for each employers. It helps them improve the speed of reviewing and calculating the bills. 
