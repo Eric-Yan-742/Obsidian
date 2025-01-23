@@ -25,4 +25,9 @@ xv6:
 	- A few tricks in the implementation: set up a reference count for each physical page, set a flag in the page table entry for that page to let the kernel know when it needs to write to it. 
 - Doubly indirect node: Unix-like operating system associates each file with an inode/dinode. Inode keeps some meta data about the file such as file type, permission, file size, and pointers to data blocks. In the beginning, each inode contains 12 direct pointers and 1 indirect pointer. By indirect pointer I mean the pointer in the inode points to a block that only contains pointers, a total of 256 pointers. Thus, the max file size can be at most 12 + 1 * 256 blocks. Building on this structure, I improve the inode to have 11 direct pointers plus 1 indirect pointer plus 1 doubly indirect pointers. A doubly indirect pointer points to a block that only contains indirect pointers. Each indirect pointer only contains pointers to data block. With that one more layer of mapping, a file can now have 256 * 256 more blocks of data. 
 
+When solving algorithm problem
+- If no thoughts about it at all, ask for hints after 5 min. 
+- If you have an idea, talk about it in general while writing down your thought process. Make sure your idea makes sense with the interviewer before actually start to write your code. 
+- When you're coding, explain what the code is doing after finishing a part of the program. 
+
 At the end, ask some futher questions. 
