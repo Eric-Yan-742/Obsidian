@@ -22,7 +22,7 @@ STAR(T)standsfor:
 3. Your biggest advantage: **Company Dependent**
 4. Why do you want to work here? **Company Dependent**
 5. Team mates are lazy/difficult to get along with. How do you deal with it? 
-	- I met similar problems before. Once I was preparing a presentation in a group. Untile a few days before the DDL, there were no people speaking in the group chats. I became nervous about the progress, so I reached out to other group members. It turned out that they were confused about which part of the task they should do and what other members have done. Then I realized we never had a clear division of the work, so everyone was 
+	- I met similar problems before. Once I was preparing a presentation in a group. Until a few days before the DDL, there were no people speaking in the group chats. I became nervous about the progress, so I reached out to other group members. It turned out that they were confused about which part of the task they should do and what other members have done. Then I realized we never had a clear division of the work, so everyone was hesitant and indecisive when working on it. Afterwards, I alwasy tried to assign a responsibility to everyone as specific as possible within the group. At the same time, I tried to reach out to other members as early as possible if they . Those things made the group 
 
 ## Experience and Projects on the Resume
 
