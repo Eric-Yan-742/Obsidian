@@ -22,7 +22,7 @@ STAR(T)standsfor:
 3. Your biggest advantage: **Company Dependent**
 4. Why do you want to work here? **Company Dependent**
 5. Team mates are lazy/difficult to get along with. How do you deal with it? 
-	- 
+	- I met similar problems before. Once I was preparing a presentation in a group. 
 
 ## Experience and Projects on the Resume
 
