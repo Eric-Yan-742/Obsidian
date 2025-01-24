@@ -21,7 +21,8 @@ STAR(T)standsfor:
 	- Sometimes I pursue perfection excessively. Once I was working on an assignment in my programming class class. I needed to implement a simple image editor. The assignment was not very bad overall, but I was very concerned about a function's runtime was a little bit slow. So I spent a lot of time on optimizing that function just to make it execute a few less lines of code. It caused me to fail to finish the whole program. From that incident, I learned although pursuing perfection is not wrong, it's more important to prioritize tasks. Sometimes it's more important to finish the whole task first. Then if there is extra time, I can use it to refine the details. 
 3. Your biggest advantage: **Company Dependent**
 4. Why do you want to work here? **Company Dependent**
-5. Team mates are lazy/
+5. Team mates are lazy/difficult to get along with. How do you deal with it? 
+	- 
 
 ## Experience and Projects on the Resume
 
