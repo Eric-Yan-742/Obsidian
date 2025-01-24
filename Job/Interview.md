@@ -17,8 +17,9 @@ STAR(T)standsfor:
 
 1. Which project are you most proud of? 
 	- My favorite project is the app I developed during my internship at Xiaomi last summer. My task was to process the financial data of incentive bonuses to employees. To finish this project, I used Java and its Springboot framework to set up the backend API. I applied Java's lambada expression and Stream API to process data more effectively. I also utilized the Template Design Pattern to make the program more extensible. In the end, my project accelerated the review and distribution process of the incentive bonuses. I learned a lot from this project from Java language features to Design Pattern. **How does this project match the position** ?
-- Your biggest drawback/failure? 
+2. Your biggest drawback/failure? 
 	- Sometimes I pursue perfection excessively. Once I was working on an assignment in my programming class class. I needed to implement a simple image editor. The assignment was not very bad overall, but I was very concerned about a function's runtime was a little bit slow. So I spent a lot of time on optimizing that function just to make it execute a few less lines of code. It caused me to fail to finish the whole program. From that incident, I learned although pursuing perfection is not wrong, it's more important to prioritize tasks. Sometimes it's more important to finish the whole task first. Then if there is extra time, I can use it to refine the details. 
+3. 
 
 ## Experience and Projects on the Resume
 
@@ -32,6 +33,8 @@ xv6:
 - Copy on write fork: Fork is used to create a child process. The child process has the exact same memory as its parent process. The most straightfoward implementation is to copy the whole physical address space of the parent process. However, that will waste a lot of the resources because in most of the cases, the child process will not ever write to more than 90% of its memory. It would be much more efficient to let the child process to borrow its parent's memory (same physical memory different virtual memroy). If the child process needs to write to certain address, we then allocate the physical memroy for it. 
 	- A few tricks in the implementation: set up a reference count for each physical page, set a flag in the page table entry for that page to let the kernel know when it needs to write to it. 
 - Doubly indirect node: Unix-like operating system associates each file with an inode/dinode. Inode keeps some meta data about the file such as file type, permission, file size, and pointers to data blocks. In the beginning, each inode contains 12 direct pointers and 1 indirect pointer. By indirect pointer I mean the pointer in the inode points to a block that only contains pointers, a total of 256 pointers. Thus, the max file size can be at most 12 + 1 * 256 blocks. Building on this structure, I improve the inode to have 11 direct pointers plus 1 indirect pointer plus 1 doubly indirect pointers. A doubly indirect pointer points to a block that only contains indirect pointers. Each indirect pointer only contains pointers to data block. With that one more layer of mapping, a file can now have 256 * 256 more blocks of data. 
+
+## Technical Algorithm Question
 
 When solving algorithm problem
 - If no thoughts about it at all, ask for hints after 5 min. 
