@@ -17,6 +17,8 @@ STAR(T)standsfor:
 
 1. Which project are you most proud of? 
 	- My favorite project is the app I developed during my internship at Xiaomi last summer. My task was to process the financial data of incentive bonuses to employees. To finish this project, I used Java and its Springboot framework to set up the backend API. I applied Java's lambada expression and Stream API to process data more effectively. I also utilized the Template Design Pattern to make the program more extensible. In the end, my project accelerated the review and distribution process of the incentive bonuses. I learned a lot from this project from Java language features to Design Pattern. **How does this project match the position** ?
+- Your biggest drawback/failure? 
+	- 
 
 ## Experience and Projects on the Resume
 
