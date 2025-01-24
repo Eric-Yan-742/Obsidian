@@ -16,7 +16,7 @@ STAR(T)standsfor:
 [问BQ(behavioral question)时，他们到底在问什么|mathworks求职讨论|一亩三分地求职（非面经）版](https://www.1point3acres.com/bbs/thread-566677-1-1.html)
 
 1. Which project are you most proud of? 
-	- My favorite project is the app I developed during my internship at Xiaomi last summer. My task was to process the financial data of incentive bonuses to employees. To finish this project, I used Java and its Springboot framework to set up the backend API. I applied Java's lambada expression and Stream API to process data more effectively. I also utilized the Template Design Pattern to make the program more extensible. In the end, my project accelerated the review and distribution of the incentive bonuses significantly. I learned a lot from this project from 
+	- My favorite project is the app I developed during my internship at Xiaomi last summer. My task was to process the financial data of incentive bonuses to employees. To finish this project, I used Java and its Springboot framework to set up the backend API. I applied Java's lambada expression and Stream API to process data more effectively. I also utilized the Template Design Pattern to make the program more extensible. In the end, my project accelerated the review and distribution of the incentive bonuses significantly. I learned a lot from this project from Java language features to Design Pattern. 
 
 ## Experience and Projects on the Resume
 
