@@ -8,7 +8,7 @@ Introduction: Hi I'm Eric. Now I'm a third year student studying in UC San Diego
 
 STAR(T)standsfor:
 - Situation-How when where and with whom? 
-- Task–What task wereyou faced with o rwhat responsibilities were you given? 
+- Task–What task wereyou faced with o what responsibilities were you given? 
 - Action-What action did you take? 
 - Result-What was the result or what did you achieve? 
 - Additionalstep: Transfer-How did the situation help you develop and what did you learn?
@@ -16,7 +16,7 @@ STAR(T)standsfor:
 [问BQ(behavioral question)时，他们到底在问什么|mathworks求职讨论|一亩三分地求职（非面经）版](https://www.1point3acres.com/bbs/thread-566677-1-1.html)
 
 1. Which project are you most proud of? 
-	- My favorite project is the app I developed during my internship at Xiaomi last summer. 
+	- My favorite project is the app I developed during my internship at Xiaomi last summer. My task was to process the data in the financial bills, reorganize and calculate the data for the financial staff to review. 
 
 ## Experience and Projects on the Resume
 
