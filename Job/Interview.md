@@ -12,6 +12,9 @@ Introduction: Hi I'm Eric. Now I'm a third year student studying in UC San Diego
 2. Previous internship. What was your primary responsibility? My main responsibility is to process some financial bills. Implement some apis to reorganize and calculate the financial data. The main tech stacks I used was Java, Springboot, and MySQL. 
 
 Behavioral Question
+
+[问BQ(behavioral question)时，他们到底在问什么|mathworks求职讨论|一亩三分地求职（非面经）版](https://www.1point3acres.com/bbs/thread-566677-1-1.html)
+
 1. Which project are you most proud of? 
 
 Internship at Xiaomi: 
