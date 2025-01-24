@@ -16,7 +16,7 @@ STAR(T)standsfor:
 [问BQ(behavioral question)时，他们到底在问什么|mathworks求职讨论|一亩三分地求职（非面经）版](https://www.1point3acres.com/bbs/thread-566677-1-1.html)
 
 1. Which project are you most proud of? 
-	- 
+	- My favorite project is the app I developed during my internship at Xiaomi last summer. 
 
 ## Experience and Projects on the Resume
 
