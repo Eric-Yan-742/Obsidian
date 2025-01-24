@@ -19,7 +19,9 @@ STAR(T)standsfor:
 	- My favorite project is the app I developed during my internship at Xiaomi last summer. My task was to process the financial data of incentive bonuses to employees. To finish this project, I used Java and its Springboot framework to set up the backend API. I applied Java's lambada expression and Stream API to process data more effectively. I also utilized the Template Design Pattern to make the program more extensible. In the end, my project accelerated the review and distribution process of the incentive bonuses. I learned a lot from this project from Java language features to Design Pattern. **How does this project match the position** ?
 2. Your biggest drawback/failure? 
 	- Sometimes I pursue perfection excessively. Once I was working on an assignment in my programming class class. I needed to implement a simple image editor. The assignment was not very bad overall, but I was very concerned about a function's runtime was a little bit slow. So I spent a lot of time on optimizing that function just to make it execute a few less lines of code. It caused me to fail to finish the whole program. From that incident, I learned although pursuing perfection is not wrong, it's more important to prioritize tasks. Sometimes it's more important to finish the whole task first. Then if there is extra time, I can use it to refine the details. 
-3. 
+3. Your biggest advantage: **Company Dependent**
+4. Why do you want to work here? **Company Dependent**
+5. 
 
 ## Experience and Projects on the Resume
 
