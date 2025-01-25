@@ -25,7 +25,7 @@ Hi `[First Name]`,
 
   
 
-I'm a 4th year undergraduate at the University of California, San Diego, studying Computer Science and Mathematics. I interned as a software engineer at Xiaomi last summer, working on applications to process financial data.
+I'm a 4th year undergraduate at the University of California, San Diego, studying Computer Science and Mathematics. I interned as a software engineer at Xiaomi last summer, working on applications to process financial bills.
 
   
 
