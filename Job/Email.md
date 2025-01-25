@@ -29,7 +29,7 @@ I'm a 4th year undergraduate at the University of California, San Diego, studyin
 
   
 
-I'm graduating this June, and I'm currently looking for full time positions. If you're available over the phone for a quick chat about potential opportunities at `[Company Name]`, I'd greatly appreciate it. 
+I'm graduating in June, 2026, and I'm currently looking for 2025 summer intern. If you're available over the phone for a quick chat about potential opportunities at `[Company Name]`, I'd greatly appreciate it. 
 
   
 
@@ -37,4 +37,4 @@ I'm graduating this June, and I'm currently looking for full time positions. If 
 
 Best,
 
-Kevin
+Eric
