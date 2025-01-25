@@ -17,7 +17,7 @@ Here's a list of recruiter emails. You can email recruiters directly instead of 
 
 Title:
 
-U Chicago Student Interested in Technical Opportunities at `[Company Name]`
+UC San Diego Student Interested in Technical Opportunities at `[Company Name]`
 
   
 
@@ -25,7 +25,7 @@ Hi `[First Name]`,
 
   
 
-I'm a 4th year undergraduate at the University of Chicago, studying Computer Science and Statistics. I interned as a software engineer at PayPal last summer, working on applications to analyze and process complaints.
+I'm a 4th year undergraduate at the University of California, San Diego, studying Computer Science and Mathematics. I interned as a software engineer at Xiaomi last summer, working on applications to process financial data.
 
   
 
