@@ -16,9 +16,9 @@
 		2. A heavy object (e.g., a bowling ball) can have low damping to allow it to roll smoothly.
 - Duration of a particle effect
 	- ![[Pasted image 20250129205139.png]]
-- `Instantiate()`: Creates a **clone** of the prefab as a **new GameObject** in the scene.
+- `Instantiate()`
 	
-	```
+	```csharp
 	public GameObject onCollectEffect;
 	
 	// ...
@@ -27,5 +27,5 @@
 	Destroy(effect, 0.5f);
 	```
 	
-	- Say you bind a prefab to `onCollectEffect` in the editor. `Instantiate` creates a **clone** of the prefab as a **new GameObject** in the scene.
-	- Note that you should not delete `onCollectEffect` directly. That's the prefab. It's not allowed to delete the prefab directly
+	- Say you bind a prefab to `onCollectEffect` in the editor. `Instantiate` creates a **clone** of the prefab as a **new GameObject** at that position. 
+	- Note that you should delete `effect`, the clone. You should not delete `onCollectEffect` directly. That's the prefab. It's not allowed to delete the prefab directly
