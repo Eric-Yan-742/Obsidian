@@ -14,3 +14,5 @@
 	- Why Unity treats them differently: 
 		1. A light object (e.g., a feather) can have high damping to simulate air resistance.
 		2. A heavy object (e.g., a bowling ball) can have low damping to allow it to roll smoothly.
+- Duration of a particle effect
+	- ![[Pasted image 20250129205139.png]]
